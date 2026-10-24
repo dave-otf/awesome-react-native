@@ -102,6 +102,7 @@ Tools for building React Native apps with AI agents, and for putting AI inside y
 - [gluestack-ui](https://github.com/gluestack/gluestack-ui) - Copy-paste components and patterns built on Tailwind-style utility classes.
 - [react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten) - UI library based on the Eva Design System with theming support.
 - [NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible component library for React Native and web.
+- [OTF UI Native](https://github.com/otf-kit/sdk?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=2026-10-24-awesome-react-native-otf-ui) - A React Native component library for Expo with component names and design tokens shared with its web packages.
 - [Shoutem UI](https://github.com/shoutem/ui) - Customizable set of styled components for React Native.
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable icon sets with support for styling and image sources.
 - [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) - Render After Effects animations natively.
